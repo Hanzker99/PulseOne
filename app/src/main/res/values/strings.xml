@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PulseOne</string>
+    <string name="adresa_de_e_mail">Adresa de e-mail</string>
+    <string name="parola">Parola</string>
+    <string name="autentificare">Autentificare</string>
+    <string name="inregistrare">Înregistrare</string>
+    <string name="nume_utilizator">Nume utilizator</string>
+    <string name="adres_email">Adresă email</string>
+    <string name="parol">Parolă</string>
+    <string name="inregistrare2">Înregistrare</string>
+    <string name="inapoi">Înapoi</string>
+    <string name="confirm_parola">Confirmă parola</string>
+    <string name="confirm">Confirmă</string>
+    <string name="ecg">ECG</string>
+    <string name="umiditate">Umiditate</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="puls">Puls</string>
+    <string name="Puls">puls</string>
+    <string name="inapoi2">Inapoi</string>
+</resources>
